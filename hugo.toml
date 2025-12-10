@@ -1,0 +1,4 @@
+baseURL = 'https://pauldicarlo.github.io/'
+languageCode = 'en-us'
+title = 'Paul DiCarlo and such'
+theme = 'ananke'
